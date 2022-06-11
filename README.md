@@ -1,4 +1,4 @@
-<h1 align="center">my-portifolio</h1>
+<h1 align="center">Le Scone</h1>
 
    
 <p align="center">
@@ -19,7 +19,7 @@ This was a project done in a SASS course, and it uses the basics of it.
 - [SASS]([https://www.npmjs.com/package/react-router-do](https://sass-lang.com/))
 
 ## Demo
-![image](https://user-images.githubusercontent.com/69980288/173192156-5c27a3bd-5935-48fa-85ba-bfbde898a654.png)
+![image](https://pedro749.github.io/css-sass/public/)
 
 
 
